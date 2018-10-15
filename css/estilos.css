@@ -58,7 +58,9 @@ nav.navbar-transparente{
     background: rgba(255,255,255,.5);
     color: white;
 }
-
+.carousel-control-next, .carousel-control-prev{
+    width: 3%;
+}
 /*Estrutura de conteudos
 **************************/
 #servicos{
